@@ -15,4 +15,4 @@ I started by studying the history of sketch and how it came into existence. How 
 To be pretty frank, I am not 100% sure what my finished task would look like. I have a rough idea which I have already discussed above and while I work on it. I may produce slightly different deliverable but the basic idea would be the same.
 
 
-                                                                                                     Date Modified 10-Jan-2019
+                                                                                          Date Modified 10-Jan-2019
