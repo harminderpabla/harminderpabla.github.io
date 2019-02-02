@@ -1,4 +1,4 @@
-# [Second Week Proposal for Directive Studies]({% post_url 2019-01-04-secondpost %})
+# [Second Week Proposal for Directive Studies]({% post_url 2019-01-18-secondpost %})
 
 # Project A (SKETCH)
 
