@@ -1,4 +1,4 @@
-# [Fourth Week Proposal for Directed Studies]
+# [Fourth Week Proposal for Directed Studies] ({% post_url 2019-02-01-firstpost %})
 
 # Project A (SKETCH)
 
