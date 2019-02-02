@@ -2,7 +2,7 @@
 
 # Project A (SKETCH)
 
-Helo everyone,This is Harminder Singh. This is my first post in Directive studies. For my first project(Project A) I am working on Sketch. 
+Helo everyone,This is Harminder Singh. This is my first post in Directed studies. For my first project(Project A) I am working on Sketch. 
 ## The main reason for choosing sketch:
 ->It is less complex as compared to its counterparts like photoshop,figma.
 ->It is gaining popularity recently and has a bright scope in the future. So I want to have a good hold of it and and further sharpen my designing skills.
