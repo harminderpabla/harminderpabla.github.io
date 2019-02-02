@@ -2,7 +2,7 @@
 
 # Project A (SKETCH)
 
- Hello everyone, This is my third post in Directive studies. As you guys know, for my 
+ Hello everyone, This is my third post in Directed studies. As you guys know, for my 
  first project(Project A) I am working on Sketch. 
 
 
