@@ -2,7 +2,7 @@
 
 # Project A (SKETCH)
 
- Hi all, This is Harminder Singh. This is my second post in Directive studies. To remind you all, I am
+ Hi all, This is Harminder Singh. This is my second post in Directed studies. To remind you all, I am
  working on Sketch.
 
 
