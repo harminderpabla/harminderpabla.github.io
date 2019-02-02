@@ -18,5 +18,4 @@
  
 ## Plans for the next week
  I will complete my project this week and also make the tutorial for this project where I 
- will give a step by step guide to make this project
- 
+ will give a step by step guide to make this project.
