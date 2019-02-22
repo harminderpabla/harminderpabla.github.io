@@ -8,9 +8,10 @@ Helo everyone, This is Harminder Singh. This is my first post in Project B in Di
 ## The main reason for choosing affinity designer:
 
 -> I wanted to choose a topic which none of my classmates have ever heard of.
+
 -> It is easy and simple to use.
--> I want to have a strong hold of designing tools. I haven't used it before and so it would be a new experience for me. That makes 
-this project really exciting for me.
+
+-> I want to have a strong hold of designing tools. I haven't used it before and so it would be a new experience for me. That makes this project really exciting for me.
 
 
 
