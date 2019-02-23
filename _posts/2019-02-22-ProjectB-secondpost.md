@@ -1,4 +1,4 @@
-# [Second Week Proposal for Directive Studies (Project B)]({% post_url 2019-02-22-ProjectB-firstpost %})
+# [Second Week Proposal for Directive Studies (Project B)]({% post_url 2019-02-22-ProjectB-secondpost %})
 
 ## Project B (Affinity Designer)
 
