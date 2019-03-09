@@ -2,29 +2,29 @@
 
 ## Project B (Affinity Designer)
 
-Helo everyone, This is Harminder Singh. This is my third post in Project B in Directed studies. I am working
-on Affinity Designer
+Hello everyone, This is Harminder Singh. This is my fourth or second last post in Project B in Directed studies. I am
+working on Affinity Designer
 
 
 
 
 ## What did I accomplish this week? 
 
-This week I made a home page for desktop, tablet as well as the mobile verion. 
+This week I made a contact us page for desktop, tablet as well as the mobile version. I also updated the home page as I
+made some changes in the color palette
 
 
 
 
 ## Which roadblocks did you encounter?
 
-Every time when I got stuck even on little things , Google and youtube came to my rescue. I was worried about the
-fact that affinity is a new tool and whether I would be able to cope up with it. But things seem to be going
-at par right now.
+1. This week I fell ill and this made a serious impact on my project. I was unable to do significant work this week. 
+2. Earlier I was using trial version of Affinity. Unfortunately trial version expired this week. I tried to find a crack or student version which would save me some money but was unable to do it. The only option left with me was to purchase it.
+3. I showed my project to classmates and they were not impressed with my color selection. So I decided to make some changes in my project and I chose a different color palette.
 
 
 
 
 ## What is my plan for next week?
 
-In the next week I will make the desktop, tablet and mobile version of the contact us page. If I get time, then I 
-will start working on the other pages like about us etc.
+I am having my presentation next week. So I will complete my prototype till Tuesday and then work on my presentation.
