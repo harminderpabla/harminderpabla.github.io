@@ -3,7 +3,7 @@
 ## Project B (Affinity Designer)
 
 Hello everyone, This is Harminder Singh. This is my fourth or second last post in Project B in Directed studies. I am
-working on Affinity Designer
+working on Affinity Designer.
 
 
 
@@ -11,7 +11,7 @@ working on Affinity Designer
 ## What did I accomplish this week? 
 
 This week I made a contact us page for desktop, tablet as well as the mobile version. I also updated the home page as I
-made some changes in the color palette
+made some changes in the color palette.
 
 
 
