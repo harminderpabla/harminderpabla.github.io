@@ -8,7 +8,7 @@ Affinity Designer.
 
 
 
-## Overall Progress?
+## My Overall Progress
 
 Before starting this project, my goal was to make a prototype related to dogs which would have desktop, tablet and
 mobile versions. My Objective was to create at least 2 pages, one of them being the home page. As the time passed
@@ -18,7 +18,7 @@ color palette which was missing in the first 2 weeks.
 
 
 
-## Lessons learned and unexpected challenges?
+## Lessons learned and unexpected challenges I faced
 
 There are many lessons I learned from this project. The first one is to complete the work before due date so that
 there is no rush at the time of submission. We should move out of the comfort zone and try all the tools and not
